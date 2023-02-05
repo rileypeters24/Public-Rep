@@ -1,0 +1,29 @@
+This is a Random Phrase Generator that uses a custom database of words that will be called Grammars.
+
+A Grammar will have this format:
+
+{
+<start>
+The <object> <verb> on the <object>.
+}
+
+{
+<object>
+cat
+dog
+mouse
+}
+
+{
+<verb>
+sat
+stood
+}
+
+The code will first parse each section into a Hastable with the titles (<object>) as the key and an ArrayList holding each word or line.
+
+The code will always start in <start> section and randomaly pick a line using a random number generator.
+While reading through that line, when it comes across any word with a opening and closing angle brackets,
+it will go to that section and randomly pick a word or line from it to fill in. It will repeat until there are no
+angle brackets left. 
+EXAMPLE: The cat stood on the mouse.
