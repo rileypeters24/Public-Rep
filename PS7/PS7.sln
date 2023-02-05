@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetworkController", "NetworkController\NetworkController.csproj", "{FE6CCB6C-17ED-4B2E-BD9C-B1A2CB313901}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE6CCB6C-17ED-4B2E-BD9C-B1A2CB313901}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE6CCB6C-17ED-4B2E-BD9C-B1A2CB313901}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE6CCB6C-17ED-4B2E-BD9C-B1A2CB313901}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE6CCB6C-17ED-4B2E-BD9C-B1A2CB313901}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15B748C5-21DF-4B35-9C79-2E8BF4A0E72E}
+	EndGlobalSection
+EndGlobal
