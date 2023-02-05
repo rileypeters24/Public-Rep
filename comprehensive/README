@@ -27,3 +27,6 @@ While reading through that line, when it comes across any word with a opening an
 it will go to that section and randomly pick a word or line from it to fill in. It will repeat until there are no
 angle brackets left. 
 EXAMPLE: The cat stood on the mouse.
+
+
+This folder contains a timer and tester.
